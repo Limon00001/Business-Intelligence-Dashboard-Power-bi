@@ -5,7 +5,7 @@
 
 </div>
 
-[Visual Representation](https://app.powerbi.com/groups/me/reports/c57f1b7a-bceb-4e9f-bc41-732bb1fb8cf1/ReportSection?experience=power-bi)
+[Visual Representation (If Power BI account available)](https://app.powerbi.com/groups/me/reports/c57f1b7a-bceb-4e9f-bc41-732bb1fb8cf1/ReportSection?experience=power-bi)
 
 ## 📈 Overview
 
